@@ -272,24 +272,24 @@ def initialize_characters():
         'avg_rating': [9.1, 8.9, 9.3, 8.7, 8.8, 8.5, 8.4, 8.6],
         'rating_count': [18200, 16800, 17500, 15200, 15800, 14200, 13800, 14500],
         'image_url': [
-            'https://via.placeholder.com/200x300/FF6B6B/FFFFFF?text=成奇勋',
-            'https://via.placeholder.com/200x300/FF8E8E/FFFFFF?text=曹尚佑',
-            'https://via.placeholder.com/200x300/FFAAAA/FFFFFF?text=姜晓',
-            'https://via.placeholder.com/200x300/4A90E2/FFFFFF?text=阿里',
-            'https://via.placeholder.com/200x300/357ABD/FFFFFF?text=吴一男',
-            'https://via.placeholder.com/200x300/E91E63/FFFFFF?text=韩美女',
-            'https://via.placeholder.com/200x300/795548/FFFFFF?text=张德秀',
-            'https://via.placeholder.com/200x300/607D8B/FFFFFF?text=负责人'
+            'c:/Users/17347/Desktop/人物评分/鱿鱼游戏/成奇勋.jpg',
+            'c:/Users/17347/Desktop/人物评分/鱿鱼游戏/曹尚佑.jpg',
+            'c:/Users/17347/Desktop/人物评分/鱿鱼游戏/姜晓.jpg',
+            'c:/Users/17347/Desktop/人物评分/鱿鱼游戏/阿里.jpg',
+            'c:/Users/17347/Desktop/人物评分/鱿鱼游戏/吴一男.jpg',
+            'c:/Users/17347/Desktop/人物评分/鱿鱼游戏/韩美女.jpeg',
+            'c:/Users/17347/Desktop/人物评分/鱿鱼游戏/张德秀.jpeg',
+            'c:/Users/17347/Desktop/人物评分/鱿鱼游戏/黄俊昊.jpg'
         ],
         'actor_photo_url': [
-            'https://via.placeholder.com/200x300/2196F3/FFFFFF?text=李政宰',
-            'https://via.placeholder.com/200x300/4CAF50/FFFFFF?text=朴海秀',
-            'https://via.placeholder.com/200x300/FF9800/FFFFFF?text=郑浩妍',
-            'https://via.placeholder.com/200x300/F44336/FFFFFF?text=阿努帕姆',
-            'https://via.placeholder.com/200x300/9C27B0/FFFFFF?text=吴永洙',
-            'https://via.placeholder.com/200x300/607D8B/FFFFFF?text=金周玲',
-            'https://via.placeholder.com/200x300/795548/FFFFFF?text=许成泰',
-            'https://via.placeholder.com/200x300/009688/FFFFFF?text=李炳宪'
+            'c:/Users/17347/Desktop/人物评分/鱿鱼游戏/成奇勋.jpg',
+            'c:/Users/17347/Desktop/人物评分/鱿鱼游戏/曹尚佑.jpg',
+            'c:/Users/17347/Desktop/人物评分/鱿鱼游戏/姜晓.jpg',
+            'c:/Users/17347/Desktop/人物评分/鱿鱼游戏/阿里.jpg',
+            'c:/Users/17347/Desktop/人物评分/鱿鱼游戏/吴一男.jpg',
+            'c:/Users/17347/Desktop/人物评分/鱿鱼游戏/韩美女.jpeg',
+            'c:/Users/17347/Desktop/人物评分/鱿鱼游戏/张德秀.jpeg',
+            'c:/Users/17347/Desktop/人物评分/鱿鱼游戏/黄俊昊.jpg'
         ]
     }
     return pd.DataFrame(characters_data)
