@@ -260,13 +260,13 @@ def initialize_characters():
         'avg_rating': [9.4, 8.3, 8.6, 8.8, 8.5, 8.2, 8.0],
         'rating_count': [14200, 11800, 12500, 13500, 11200, 9800, 8600],
         'image_url': [
-            'https://static.wikia.nocookie.net/dr-stone/images/9/93/Senku_Ishigami_%28Anime%29.png/revision/latest?cb=20190710154134',
-            'https://static.wikia.nocookie.net/dr-stone/images/6/69/Taiju_Oki_%28Anime%29.png/revision/latest?cb=20190705185117',
-            'https://static.wikia.nocookie.net/dr-stone/images/7/72/Yuzuriha_Ogawa_Full_Body_%28Anime%29.png/revision/latest?cb=20190719182512',
-            'https://static.wikia.nocookie.net/dr-stone/images/5/50/Tsukasa_Shishio_%28Anime%29.png/revision/latest?cb=20190712212715',
-            'https://static.wikia.nocookie.net/dr-stone/images/3/3a/Chrome_Anime_Profile.png/revision/latest?cb=20190816201633',
-            'https://static.wikia.nocookie.net/dr-stone/images/a/a2/Kohaku_Anime_Profile.png/revision/latest?cb=20190816215803',
-            'https://static.wikia.nocookie.net/dr-stone/images/7/75/Ruri_Anime_Profile.png/revision/latest?cb=20190816221228'
+            '千空动画.webp',
+            '大树.webp',
+            '小川杠.webp',
+            '狮子王司.webp',
+            '克鲁姆.webp',
+            '琥珀.webp',
+            '琉璃.webp'
         ],
         'actor_photo_url': [
             'https://static.wikia.nocookie.net/dr-stone/images/b/b4/Senku_Full_Body_%28Manga%29.png/revision/latest?cb=20180919151348',

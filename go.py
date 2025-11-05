@@ -664,6 +664,10 @@ def ai_recommendation_interface():
                     st.markdown(f"**在线评分系统：** [https://qhd1988rwpf.streamlit.app/](https://qhd1988rwpf.streamlit.app/)")
                 elif main_recommend['name'] == '爱的迫降':
                     st.markdown(f"**在线评分系统：** [https://adpjrwpf.streamlit.app/](https://adpjrwpf.streamlit.app/)")
+                elif main_recommend['name'] == '轮到你了':
+                    st.markdown(f"**在线评分系统：** [https://ldnlrwpf.streamlit.app/](https://ldnlrwpf.streamlit.app/)")
+                elif main_recommend['name'] == '石纪元':
+                    st.markdown(f"**在线评分系统：** [https://sjyrwpf.streamlit.app/](https://sjyrwpf.streamlit.app/)")
                 
                 # 使用session state跟踪按钮点击状态
                 detail_key = f"show_detail_{main_recommend['name']}"
